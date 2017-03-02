@@ -5,11 +5,6 @@ import requests
 from keys import *
 
 
-# email particulars
-recipient = ''
-sender = ''
-
-
 # email specifics
 subject = 'Hello there'
 body_t = " You just sent your first email with Python!"
